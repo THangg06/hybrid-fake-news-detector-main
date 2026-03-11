@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+transformers
+torch
+xgboost
+tqdm
+matplotlib
+seaborn
+nltk
+# python src/predict.py src/test_news.csv
